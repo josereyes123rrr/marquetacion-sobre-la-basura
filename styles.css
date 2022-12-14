@@ -1,0 +1,150 @@
+body{
+    background: rgb(5, 45, 72);
+    
+}
+img {
+
+height: 170px;
+width: 170px;
+
+
+margin: 2px;
+}
+#acumulación
+{
+    height: 156px;
+    width: 700px;
+    background: rgb(205, 233, 247);
+    float: left;
+    position: absolute;
+    top: 160px;
+    left: 10%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border-style: inset;
+}
+#solución
+{
+    height: 332px;
+    width:384px;
+    background: rgb(205, 233, 247);
+    position: relative;
+    top: 22px;
+    left: 48%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: inset;
+}
+#mejoramiento
+{
+    height: 203px;
+    width: 295px;
+    background: rgb(205, 233, 247);
+    top: 500px;
+    left: 10%;
+    position: absolute;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: inset;
+}
+
+#barrio
+{
+    height: 203px;
+    width: 620px;
+    background: rgb(205, 233, 247);
+    position: absolute;
+    top: 500px;
+    left: 26.3%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: inset;
+}
+
+#problema
+{ 
+    height: 156px;
+    width: 700px;
+    background: rgb(205, 233, 247);
+    float: left;
+    position: absolute;
+    top: 330px;
+    left: 10%;
+    border-radius: 2px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: inset;
+}
+.borra{
+    clear:both;
+}
+
+#cabecera{
+    position: static;
+    color: rgb(255, 255, 255);
+  text-anchor: 250px;
+    font-size: 23px;
+    border-radius: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: inset;
+    background-color: rgb(107, 218, 212);
+}
+#contaminación
+{
+    height: 328px;
+    width: 162px;
+    background: rgb(205, 233, 247);
+    position: absolute;
+    top: 372px;
+    left: 79%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: inset;
+}
+#Consecuencias
+{
+    height: 210px;
+    width: 162px;
+    background: rgb(205, 233, 247);
+    position: absolute;
+    top: 146px;
+    left: 79%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: inset;
+}
+#andogena
+{
+    height: 198px;
+    width: 170px;
+    background: rgb(205, 233, 247);
+    position: absolute;
+    top: 504px;
+    left: 69.3%;
+    border-style: inset;
+}
+#suelo
+{
+    height: 170px;
+    width: 170px;
+    background: rgb(205, 233, 247);
+    position: absolute;
+    top: 322px;
+    left: 69.2%;
+    border-style: inset;
+    
+}
+#tierra
+{
+    height: 170px;
+    width: 170px;
+    background: rgb(205, 233, 247);
+    position: absolute;
+    top: 140px;
+    left: 69.2%;
+    border-style: inset;
+}
+#edificios
+{
+    height: 203px;
+    width: 162px;
+    background: rgb(205, 233, 247);
+    position: absolute;
+    top: 500px;
+    left: 60%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: inset;
+}
